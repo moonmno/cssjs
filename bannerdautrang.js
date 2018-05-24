@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://xehoi365.com' target='_blank'><img src='https://xehoi365.com/images/bigimages/39df35e51cfa431f2dbb3952418023b5' width='500px'/><br/>Bán xe hơi Hyundai trả góp</a>. Đăng ký xe nhanh chóng, giao xe tận nhà. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://xehoi365.com' target='_blank'><img src='https://3.bp.blogspot.com/-fzeF10sePxM/Wwa0s6mOTUI/AAAAAAAAF2E/yWLp9LwmaHgbTrLbT4ms5G5AzBtaEJjQQCLcBGAs/s1600/giaxehyundai-elantra.png' width='500px'/><br/>Bán xe hơi Hyundai trả góp</a>. Đăng ký xe nhanh chóng, giao xe tận nhà. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });

@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://xehoi365.com' target='_blank'><img src='https://1.bp.blogspot.com/-eEEg1Ym8sxs/WwUvOlIs3UI/AAAAAAAAF14/GnvxSNbMJwcmqcQm9G1eXriun7XP6cPAACLcBGAs/s1600/logo-hyundaitruongchinh-6433.png' width='500px'/><br/>Bán xe hơi Hyundai trả góp</a>. Đăng ký xe nhanh chóng, giao xe tận nhà. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://xehoi365.com' target='_blank'><img src='https://1.bp.blogspot.com/-eEEg1Ym8sxs/WwUvOlIs3UI/AAAAAAAAF14/GnvxSNbMJwcmqcQm9G1eXriun7XP6cPAACLcBGAs/s1600/logo-hyundaitruongchinh-6433.png' width='500px'/><br/>Bán xe hơi Hyundai trả góp với lãi suất ưu đãi và nhiều quà tặng <br/></a>. Đăng ký xe nhanh chóng, giao xe tận nhà. Hotline 0915 911 915 - Ms Nguyệt<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
